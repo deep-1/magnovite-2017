@@ -1,1 +1,1 @@
-# magnovite-2017
+# Magnovite v6 2017 
